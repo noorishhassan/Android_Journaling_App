@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Splash_Screen</string>
+    <string name="hi">Hi</string>
+    <string name="your_journal">your journal</string>
+    <string name="createStories">CREATE STORIES, TRACK MEMORIES</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+
+    <string name="title_activity_signup">Signup</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_bottom_navigation">bottom_navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="stories">Stories</string>
+    <string name="text_home">Good evening,</string>
+    <string name="quote">\'Random quote generated from database\'</string>
+    <string name="user_name">rishwan</string>
+    <string name="add_to_your_stories">Add to your stories</string>
+    <string name="TItle_home">Home</string>
+    <string name="Quote_title">Quote to begin your day</string>
+    <string name="Quote_text">“Make the decision, make another. Remake one past, you cannot”</string>
+    <string name="add_Story_title">Start creating stories</string>
+    <string name="proceed_add">Take me to add new</string>
+    <string name="add_new">add_new</string>
+</resources>
